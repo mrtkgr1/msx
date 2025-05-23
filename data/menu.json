@@ -1,0 +1,10 @@
+{
+    "headline": "Medya ortami",
+    "menu": [
+        {
+            "icon": "smart-display",
+            "label": "YouTube",
+            "data": "https://benzac-de.github.io/msx/data/base/youtube.json"
+        }
+    ]
+}
