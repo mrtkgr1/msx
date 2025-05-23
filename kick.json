@@ -1,0 +1,10 @@
+{
+  "title": "Kick Canlı Yayın",
+  "type": "video",
+  "video": "https://kick.com/stream/hls/USERNAME/index.m3u8",
+  "playerLabel": "USERNAME Canlı Yayını",
+  "background": "https://static.kick.com/default-thumbnail.jpg",
+  "properties": {
+    "description": "Kick yayıncısının canlı yayını"
+  }
+}
