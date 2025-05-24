@@ -1,14 +1,11 @@
 {
-    "type": "list",
     "headline": "Medya ortami",
-    "items": [{
-            "title": "KaanFlix",
-            "image": "https://files.kick.com/images/user/8273023/profile_image/conversion/dfb78243-7d9b-4137-a5ed-c7b5230e2840-fullsize.webp",
-            "action": "video:plugin:https://player.kick.com/kaanflix"
-        },
+    "menu": [
         {
-            "title": "H1vezZz",
-            "image": "https://yt3.googleusercontent.com/UKpZOevINvNH2zT8kbIUg0G2QtIAABpfeNdMYNIPUiMGwwHgIkaCqXaQvfeImS0dq1Oq-mjorQ=s160-c-k-c0x00ffffff-no-rj",
+            "icon": "smart-display",
+            "label": "Y1",
             "action": "video:plugin:https://player.kick.com/h1vezzz"
-        }]
+            "data": "https://mrtkgr1.github.io/msx/data/y1.json"
+        }
+    ]
 }
