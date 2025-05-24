@@ -4,7 +4,7 @@
         {
             "icon": "smart-display",
             "label": "Y1",
-            "data": "https://mrtkgr1.github.io/msx/data/y1.json"
+            "action": "video:plugin:https://player.kick.com/h1vezzz"
         }
     ]
 }
