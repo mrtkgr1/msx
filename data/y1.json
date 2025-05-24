@@ -1,9 +1,18 @@
 {
-  "title": "Kick HLS Yayını",
-  "entries": [
-    {
-      "title": "Yayıncı Adı",
-      "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=61CFhMvAbFU"
-    }
-  ]
+    "type": "pages",
+    "headline": "Yayin",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,3,3",
+        "color": "black",
+        "imageFiller": "cover"
+    },
+    "items": [
+        {
+            "title": "How To Use MSX With Node.js",
+            "playerLabel": "How To Use MSX With Node.js",
+            "image": "https://img.youtube.com/vi/61CFhMvAbFU/hqdefault.jpg",
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=61CFhMvAbFU"
+        }
+    ]
 }
