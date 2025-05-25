@@ -1,6 +1,7 @@
 {    
-    "name": "Msx",
+    "name": "Msx-Medya",
     "version": "1.0.0",
-    "parameter": "menu:https://mrtkgr1.github.io/msx/data/menu.json"
+    "parameter": "menu:https://mrtkgr1.github.io/msx/data/menu.json",
+    "welcome": "none"
 }
  
