@@ -32,6 +32,11 @@
             "title": "Purplebixi",
             "image": "https://files.kick.com/images/user/26899007/profile_image/conversion/732d88d2-56b3-4913-842e-46cd1604331d-fullsize.webp",
             "action": "video:plugin:https://player.kick.com/purplebixi"
+        },
+{
+            "title": "Purplebixi",
+            "image": "https://files.kick.com/images/user/26899007/profile_image/conversion/732d88d2-56b3-4913-842e-46cd1604331d-fullsize.webp",
+            "action": "video:plugin:https://player.kick.com/mithrain"
         }
     ]
 }
