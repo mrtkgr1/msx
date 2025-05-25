@@ -3,7 +3,7 @@
     "menu": [
         {
             "icon": "smart-display",
-            "label": "Y1",
+            "label": "Kick",
             "data": "https://mrtkgr1.github.io/msx/data/y1.json"
         }
     ]
